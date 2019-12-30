@@ -1,0 +1,6 @@
+C:\Users\User\source\Labs\sea_battle\Client\bin\Debug\Client.exe.config
+C:\Users\User\source\Labs\sea_battle\Client\bin\Debug\Client.exe
+C:\Users\User\source\Labs\sea_battle\Client\bin\Debug\Client.pdb
+C:\Users\User\source\Labs\sea_battle\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\User\source\Labs\sea_battle\Client\obj\Debug\Client.exe
+C:\Users\User\source\Labs\sea_battle\Client\obj\Debug\Client.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\Labs\sea_battle\sea_battle\bin\Debug\sea_battle.exe.config
+C:\Users\User\source\Labs\sea_battle\sea_battle\bin\Debug\sea_battle.exe
+C:\Users\User\source\Labs\sea_battle\sea_battle\bin\Debug\sea_battle.pdb
+C:\Users\User\source\Labs\sea_battle\sea_battle\obj\Debug\sea_battle.exe
+C:\Users\User\source\Labs\sea_battle\sea_battle\obj\Debug\sea_battle.pdb
+C:\Users\User\source\Labs\sea_battle\sea_battle\obj\Debug\sea_battle.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sea_battle", "sea_battle\sea_battle.csproj", "{14F1464C-CC50-49E0-A807-CD240A7162D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{175CE9F2-DBC0-44A0-84E3-598B1ED38CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F1464C-CC50-49E0-A807-CD240A7162D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F1464C-CC50-49E0-A807-CD240A7162D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F1464C-CC50-49E0-A807-CD240A7162D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F1464C-CC50-49E0-A807-CD240A7162D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175CE9F2-DBC0-44A0-84E3-598B1ED38CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175CE9F2-DBC0-44A0-84E3-598B1ED38CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175CE9F2-DBC0-44A0-84E3-598B1ED38CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175CE9F2-DBC0-44A0-84E3-598B1ED38CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {179B0F5A-A437-4476-A3C2-B814F0B80D51}
+	EndGlobalSection
+EndGlobal
